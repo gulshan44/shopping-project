@@ -41,7 +41,7 @@ export default function ProductCards() {
 
             <MDBCol size='md-3 mb-3 mt-2'>
               <MDBCard>
-                <MDBCardImage src={items.img} position='top' alt='...' />
+                <MDBCardImage src={items.img} position='top' alt='Product-img' />
                 <MDBCardBody>
                   <MDBCardTitle>{items.title}</MDBCardTitle>
 

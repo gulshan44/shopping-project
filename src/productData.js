@@ -3,7 +3,7 @@ export const array = [
         id: 1,
         title: "mens casual shirt",
         price: 800.00,
-        img: "/shop-mens.jpg",
+        img: "/Shop-mens.jpg",
         quantity: 1,
     },
 
