@@ -6,3 +6,35 @@ body{
 #navbar{
   background: linear-gradient(to right, rgb(11, 35, 81), #4b4b4b);
 }
+
+#nav li a{
+  color: #fff;
+}
+
+#nav li a:hover{
+  color: #62b1df;
+}
+
+.navbar-toggler-icon{
+  color: #fff;
+}
+
+.carticon{
+  color: #fff;
+  font-size: 24px;
+  transition: 0.4s;
+}
+
+.carticon:hover{
+  color: #62b1df;
+  transition: 0.4s;
+}
+
+.carticon sup{
+  color: #fff;
+  background: #e13a3a;
+}
+
+#dropdown li a{
+  color: #000;
+}
