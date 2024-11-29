@@ -66,7 +66,7 @@ export default function Navbar() {
                             </li>
                         </ul>
                     </div>
-
+{/* 
                     <Link to='/cartpage' className='carticon pe-3'>
                         <i class="bi bi-plus"></i>
                     </Link>
@@ -74,7 +74,7 @@ export default function Navbar() {
                     <Link to='/cartpage' className='carticon'>
                         <i class="bi bi-bag-plus"></i>
                         <sup className='px-1 rounded-pill'>0</sup>
-                    </Link>
+                    </Link> */}
 
                 </div>
 
